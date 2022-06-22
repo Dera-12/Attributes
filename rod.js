@@ -12,4 +12,4 @@ let Nationality = "Nigeria is my country"
 
 window.alert( full_name +"\n"+ height+"\n" + Nationality)
 
-console.log( full_name + "\n  \n" + height +"\n \n" + Nationality +  "is my country");
+console.log( full_name + "\n  \n" + height +"\n \n" + Nationality +  "");
